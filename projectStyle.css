@@ -354,7 +354,7 @@ font-size: 1rem;
   margin-bottom: 0;
 }
 .home__button{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -363,6 +363,9 @@ font-size: 1rem;
   margin-top: 6rem;
   width: 15%;
 }
+
+
+
 
 .home__content{
   max-width: 1120px;
@@ -414,4 +417,5 @@ font-size: 1rem;
   }
 
 }
+
 
