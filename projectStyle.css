@@ -232,9 +232,21 @@ img {
   font-size: 1.5rem;
   font-weight: initial;
   transition: transform .4s;
-
 }
 
+.home__social{
+position: absolute;
+z-index: var(--z-tooltip);
+left: 1.5rem;
+bottom: 4rem;
+display: grid;
+row-gap: 1.5rem;
+}
+
+.home__social-link{
+color: var(--white-color);
+font-size: 1rem;
+}
 .ri-arrow-right-s-line{
   color: var(--white-color);
 }
@@ -400,4 +412,5 @@ img {
   .home__shadow{
     max-height: 1000px
   }
+
 }
