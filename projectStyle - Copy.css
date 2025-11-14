@@ -215,6 +215,17 @@ img {
   width: 30%;
   text-align: center;
 }
+.home__btn{
+  color: var(--black-color);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: .5rem;
+  font-weight: var(--font-semi-bold);
+  margin-top: 2rem;
+  width: 30%;
+  text-align: center;
+  }
 
 .home__button i{
   font-size: 1.5rem;
@@ -386,5 +397,6 @@ img {
     max-height: 1000px
   }
 }
+
 
 
