@@ -212,7 +212,7 @@ img {
   column-gap: .5rem;
   font-weight: var(--font-semi-bold);
   margin-top: 2rem;
-  width: 15%;
+  width: 30%;
   text-align: center;
 }
 
@@ -334,7 +334,7 @@ img {
   column-gap: .5rem;
   font-weight: var(--font-semi-bold);
   margin-top: 6rem;
-  width: 15%;
+  width: 30%;
 }
 
 .home__content{
@@ -386,3 +386,4 @@ img {
     max-height: 1000px
   }
 }
+
